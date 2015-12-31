@@ -1,0 +1,14 @@
+"*":
+  "exception-reporting":
+    userId: "e5ee1927-b804-30a3-aaaa-de6d8fc9fb8f"
+  welcome:
+    showOnStartup: false
+  "japanese-wrap":
+    characterWidth: {}
+  core:
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
+  editor:
+    invisibles: {}
